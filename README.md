@@ -1,20 +1,20 @@
-# Home Assistant – MQTT Assignment  
+# Home Assistant - MQTT Assignment  
 Student name: **Hemalatha G**
 Register Number: **42110458**  
 Topic Used: **home/hemalatha-2025/sensor**
 
-This repository contains my MQTT → Python → Home Assistant assignment for **Nakshatra Automation**
+This repository contains my MQTT, Python, Home Assistant assignment for **Nakshatra Automation**
 
 ## Task Overview
-### Task 1 — Home Assistant Installation  
+### Task 1 - Home Assistant Installation  
 Home Assistant OS was installed using **VirtualBox**.  
 The VM boots successfully and HA is accessible through the browser.
 
-### Task 2 — MQTT Broker Installation  
+# Task 2 - MQTT Broker Installation  
 The **Mosquitto MQTT Broker** was installed on the local system.  
 The broker runs on port **1883**, and authentication is enabled.
 
-### Task 3 — Python Script (MQTT Publisher)  
+# Task 3 - Python Script (MQTT Publisher)  
 A Python program (`sensor_publish.py`) publishes the following sensor values:
 - Temperature = **25**
 - Humidity = **60**
@@ -29,10 +29,10 @@ The script includes:
 - `unique_id`
 - `topic` 
 
-### Task 4 — Home Assistant Dashboard  
+# Task 4 - Home Assistant Dashboard  
 HA listens to the MQTT topic and displays the sensor values live.
 
-### Task 5 — Demo Video  
+### Task 5 - Demo Video  
 The submitted video shows:
 - My face (verification)
 - Real-time timestamp  
@@ -40,12 +40,12 @@ The submitted video shows:
 - Python script output  
 - MQTT broker with live data
 
-### Task 6 — GitHub Upload  
+# Task 6 - GitHub Upload  
 This repo contains:
 - Python script  
 - README documentation  
 
-### Task 7 — 1-Page PDF  
+### Task 7 - PDF  
 Includes:
 - Name  
 - Register Number  
@@ -73,9 +73,4 @@ This project demonstrates:
 - Sensor visualization  
 
 All tasks were completed individually as per the assignment rules.
-
-
-
-
-## 📌 How to Run the Script
 
